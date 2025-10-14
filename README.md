@@ -38,13 +38,13 @@ Crea un archivo `.cs` por cada clase en el proyecto:
 
 Proyecto/
 │
-Dispositivo.cs
-Laptop.cs
-Tablet.cs
-Celular.cs
-Form1.cs
-Program.cs
-README.md
+├── Dispositivo.cs
+├── Laptop.cs
+├── Tablet.cs
+├── Celular.cs
+├── Form1.cs
+├── Program.cs
+└── README.md
 
 
 Cada clase debe estar documentada con comentarios `/// <summary>` explicando su propósito.
@@ -58,7 +58,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 2. **Consulta a la IA:**  
    Escribe el prompt para la siguiente pregunta:  
-   > ¿Por qué este código no aplica correctamente el polimorfismo y cómo solucionarlo en C#?
+   ¿Por qué este código no aplica correctamente el polimorfismo y cómo solucionarlo en C#?
 
 3. **Evalúa críticamente la respuesta de la IA.**  
    - ¿La IA confundió sobrecarga con sobrescritura?  
@@ -102,7 +102,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 2. Captura de pantalla del programa funcionando con los 3 tipos de dispositivos.  
 3. Captura de la conversación con la IA.  
 4. Reflexión escrita (6–8 líneas):  
-   > ¿Qué parte de la respuesta de la IA fue correcta y cuál debí corregir manualmente? ¿Qué aprendí del uso crítico de la IA?
+   ¿Qué parte de la respuesta de la IA fue correcta y cuál debí corregir manualmente? ¿Qué aprendí del uso crítico de la IA?
 
 ---
 
