@@ -38,8 +38,8 @@ Crea un archivo .cs por cada clase en el proyecto:
 
 Proyecto/
 │
-├── Dispositivo.cs
-├── Laptop.cs
+── Dispositivo.cs
+── Laptop.cs
 ├── Tablet.cs
 ├── Celular.cs
 ├── Form1.cs
