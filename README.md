@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Propósito de la actividad
+## Propósito de la actividad
 
 Corregir los errores en una jerarquía de clases para que el **polimorfismo funcione correctamente** en tiempo de ejecución.  
 El estudiante deberá comprender la diferencia entre **ocultar un método con "new"** y **sobrescribirlo con "override"**, asegurando que las clases hijas mantengan la **misma firma del método base**.
@@ -16,7 +16,7 @@ Además, deberá **utilizar la IA (ChatGPT, Copilot, Gemini, etc.) como herramie
 
 ---
 
-## 🧠 Contexto del problema
+## Contexto del problema
 
 Una empresa de tecnología está desarrollando una aplicación para calcular el **costo de mantenimiento** de distintos dispositivos electrónicos:
 
@@ -31,7 +31,7 @@ Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar
 
 ---
 
-## 🧩 Estructura esperada del proyecto
+## Estructura esperada del proyecto
 
 Antes de entregar, el código debe estar **modularizado**.  
 Crea un archivo .cs por cada clase en el proyecto:
@@ -43,7 +43,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ---
 
-## 🧰 Instrucciones paso a paso
+## Instrucciones paso a paso
 
 1. **Analiza el código base.**  
    Ejecuta el programa y observa que el cálculo de mantenimiento muestra el mismo resultado para todos los dispositivos.
@@ -65,7 +65,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ---
 
-## 🧪 Datos de prueba
+## Datos de prueba
 
 | Caso | Tipo de Dispositivo | Costo Base | Resultado Esperado (`CalcularMantenimiento()`) | Propósito |
 |------|----------------------|-------------|-----------------------------------------------|------------|
@@ -77,7 +77,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ---
 
-## 🧩 Reglas de diseño y entrega
+## Reglas de diseño y entrega
 
 ✅ Cada clase debe tener su propio archivo .cs  
 ✅ Los métodos deben ser refinados  
@@ -88,7 +88,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ---
 
-## 💬 Entregables
+## Entregables
 
 1. Proyecto corregido y modularizado.  
 2. Captura de pantalla del programa funcionando con los 3 tipos de dispositivos.  
@@ -98,7 +98,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ---
 
-## 💡 Consejo docente
+## Consejo docente
 El objetivo no es solo corregir el código, sino **aprender a pensar mejor que la IA**:  
 si la IA propone una solución, tu tarea es **cuestionarla, probarla y mejorarla**.
 
