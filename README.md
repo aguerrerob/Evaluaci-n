@@ -27,7 +27,7 @@ Una empresa de tecnología está desarrollando una aplicación para calcular el 
 Sin embargo, el sistema no aplica correctamente el polimorfismo.  
 Actualmente, todos los dispositivos devuelven el mismo resultado, lo que demuestra que el método "CalcularMantenimiento()" no se está sobrescribiendo correctamente.
 
-Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar el comportamiento polimórfico.
+El reto es **diagnosticar**, **corregir** y **probar** el código para restaurar el comportamiento polimórfico.
 
 
 
