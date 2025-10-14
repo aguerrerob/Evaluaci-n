@@ -10,7 +10,7 @@
 ## Propósito de la actividad
 
 Corregir los errores en una jerarquía de clases para que el **polimorfismo funcione correctamente** en tiempo de ejecución.  
-El estudiante deberá comprender la diferencia entre **ocultar un método con "new"** y **sobrescribirlo con "override"**, asegurando que las clases hijas mantengan la **misma firma del método base**.
+Los estudiantes deberán comprender la diferencia entre **ocultar un método con "new"** y **sobrescribirlo con "override"**, asegurando que las clases hijas mantengan la **misma firma del método base**.
 
 Además, deberá **utilizar la IA (ChatGPT, Copilot, Gemini, etc.) como herramienta de apoyo**, **evaluando críticamente** las respuestas obtenidas y tomando decisiones con criterio técnico propio.
 
@@ -58,10 +58,10 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
    - ¿La firma del método coincide con la de la clase base?
 
 4. **Corrige el código:**  
-   - Analiza el código y descrubre donde están los errores
+   - Analicen el código y descrubre donde están los errores
 
 5. **Prueba tu solución.**  
-   Usa los datos de prueba de la siguiente tabla y verifica que cada tipo de dispositivo muestre un resultado diferente.
+   Usen los datos de prueba de la siguiente tabla y verifica que cada tipo de dispositivo muestre un resultado diferente.
 
 
 
