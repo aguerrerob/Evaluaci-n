@@ -36,10 +36,7 @@ Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar
 Antes de entregar, el código debe estar **modularizado**.  
 Crea un archivo .cs por cada clase en el proyecto:
 
-Proyecto/
-│
-── Dispositivo.cs
-── Laptop.cs
+Proyecto/Dispositivo.cs/Laptop.cs
 ├── Tablet.cs
 ├── Celular.cs
 ├── Form1.cs
