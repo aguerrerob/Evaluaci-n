@@ -10,7 +10,7 @@
 ## 🎯 Propósito de la actividad
 
 Corregir los errores en una jerarquía de clases para que el **polimorfismo funcione correctamente** en tiempo de ejecución.  
-El estudiante deberá comprender la diferencia entre **ocultar un método con `new`** y **sobrescribirlo con `override`**, asegurando que las clases hijas mantengan la **misma firma del método base**.
+El estudiante deberá comprender la diferencia entre **ocultar un método con "new"** y **sobrescribirlo con "override"**, asegurando que las clases hijas mantengan la **misma firma del método base**.
 
 Además, deberá **utilizar la IA (ChatGPT, Copilot, Gemini, etc.) como herramienta de apoyo**, **evaluando críticamente** las respuestas obtenidas y tomando decisiones con criterio técnico propio.
 
@@ -25,7 +25,7 @@ Una empresa de tecnología está desarrollando una aplicación para calcular el 
 - Celular  
 
 Sin embargo, el sistema no aplica correctamente el polimorfismo.  
-Actualmente, todos los dispositivos devuelven el mismo resultado, lo que demuestra que el método `CalcularMantenimiento()` no se está sobrescribiendo correctamente.
+Actualmente, todos los dispositivos devuelven el mismo resultado, lo que demuestra que el método "CalcularMantenimiento()" no se está sobrescribiendo correctamente.
 
 Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar el comportamiento polimórfico.
 
@@ -34,7 +34,7 @@ Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar
 ## 🧩 Estructura esperada del proyecto
 
 Antes de entregar, el código debe estar **modularizado**.  
-Crea un archivo `.cs` por cada clase en el proyecto:
+Crea un archivo .cs por cada clase en el proyecto:
 
 Proyecto/
 │
@@ -47,7 +47,7 @@ Proyecto/
 └── README.md
 
 
-Cada clase debe estar documentada con comentarios `/// <summary>` explicando su propósito.
+Cada clase debe estar documentada con comentarios "/// <summary>" explicando su propósito.
 
 ---
 
@@ -62,7 +62,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 3. **Evalúa críticamente la respuesta de la IA.**  
    - ¿La IA confundió sobrecarga con sobrescritura?  
-   - ¿Propuso usar `new` en lugar de `override`?  
+   - ¿Propuso usar new en lugar de override?  
    - ¿La firma del método coincide con la de la clase base?
 
 4. **Corrige el código:**  
@@ -87,10 +87,10 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ## 🧩 Reglas de diseño y entrega
 
-✅ Cada clase debe tener su propio archivo `.cs`  
+✅ Cada clase debe tener su propio archivo .cs  
 ✅ Los métodos deben ser refinados  
 ✅ No se deben crear sobrecargas innecesarias  
-✅ Código documentado con comentarios XML (`///`)  
+✅ Código documentado con comentarios XML (///)  
 ✅ Capturas del programa funcionando  
 ✅ Reflexión sobre el uso de la IA
 
