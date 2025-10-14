@@ -39,7 +39,7 @@ Crea un archivo .cs por cada clase en el proyecto:
 Proyecto/Dispositivo.cs/Laptop.cs/Tablet.cs/Celular.cs/Form1.cs/Program.cs/README.md
 
 
-Cada clase debe estar documentada con comentarios /// <summary> explicando su propósito.
+Cada clase debe estar documentada con comentarios `/// <summary>` explicando su propósito.
 
 ---
 
