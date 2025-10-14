@@ -14,7 +14,7 @@ El estudiante deberá comprender la diferencia entre **ocultar un método con "n
 
 Además, deberá **utilizar la IA (ChatGPT, Copilot, Gemini, etc.) como herramienta de apoyo**, **evaluando críticamente** las respuestas obtenidas y tomando decisiones con criterio técnico propio.
 
----
+
 
 ## Contexto del problema
 
@@ -29,7 +29,7 @@ Actualmente, todos los dispositivos devuelven el mismo resultado, lo que demuest
 
 Tu reto es **diagnosticar**, **corregir** y **probar** el código para restaurar el comportamiento polimórfico.
 
----
+
 
 ## Estructura esperada del proyecto
 
