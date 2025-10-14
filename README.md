@@ -79,12 +79,12 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 ## Reglas de diseño y entrega
 
-✅ Cada clase debe tener su propio archivo .cs  
-✅ Los métodos deben ser refinados  
-✅ No se deben crear sobrecargas innecesarias  
-✅ Código documentado con comentarios XML (///)  
-✅ Capturas del programa funcionando  
-✅ Reflexión sobre el uso de la IA
+1. Cada clase debe tener su propio archivo .cs  
+2. Los métodos deben ser refinados  
+3. No se deben crear sobrecargas innecesarias  
+4. Código documentado con comentarios XML (///)  
+5. Capturas del programa funcionando  
+6. Reflexión sobre el uso de la IA
 
 ---
 
