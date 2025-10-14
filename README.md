@@ -41,7 +41,7 @@ Proyecto/Dispositivo.cs/Laptop.cs/Tablet.cs/Celular.cs/Form1.cs/Program.cs/READM
 
 Cada clase debe estar documentada con comentarios `/// <summary>` explicando su propósito.
 
----
+
 
 ## Instrucciones paso a paso
 
@@ -63,7 +63,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 5. **Prueba tu solución.**  
    Usa los datos de prueba de la siguiente tabla y verifica que cada tipo de dispositivo muestre un resultado diferente.
 
----
+
 
 ## Datos de prueba
 
@@ -75,7 +75,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 | 4 | Laptop (máx.) | 10,000,000 | 1,500,000 | Validar comportamiento en valores grandes |
 | 5 | Tablet (error) | 800,000 (firma distinta) | Error o resultado incoherente | Verificar ruptura de polimorfismo |
 
----
+
 
 ## Reglas de diseño y entrega
 
@@ -86,7 +86,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 5. Capturas del programa funcionando  
 6. Reflexión sobre el uso de la IA
 
----
+
 
 ## Entregables
 
@@ -96,7 +96,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 4. Reflexión escrita (6–8 líneas):  
    ¿Qué parte de la respuesta de la IA fue correcta y cuál debí corregir manualmente? ¿Qué aprendí del uso crítico de la IA?
 
----
+
 
 ## Consejo docente
 El objetivo no es solo corregir el código, sino **aprender a pensar mejor que la IA**:  
