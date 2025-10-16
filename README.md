@@ -98,7 +98,7 @@ Cada clase debe estar documentada con comentarios `/// <summary>` explicando su 
 
 
 
-## Consejo docente
+## Recomendación
 El objetivo no es solo corregir el código, sino **aprender a pensar mejor que la IA**:  
 si la IA propone una solución, tu tarea es **cuestionarla, probarla y mejorarla**.
 
